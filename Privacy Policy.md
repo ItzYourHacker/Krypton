@@ -6,11 +6,11 @@ Please read this policy carefully to understand our policies and practices regar
 
 # What does it store?
 
-Server IDs for server data (prefixes, settings, Djrole, welcome, automod, logging).
+Server IDs for server data (prefixes, settings, antinuke, welcome, automod, ignore).
 
 User IDs to keep a record of afk, warn, mute.
 
-Few parts of message content for logging system and chatbot system.
+Few parts of message content for logging system.
 
 Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Krypton's users.
 
