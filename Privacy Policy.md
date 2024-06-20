@@ -52,6 +52,6 @@ Contact any of the server moderators in our discord support server.
 
 Ask server mod(s) to remove the logged message or just wait for 24 hours, after being they are removed automatically after 24 hours.
 
-# HOW CAN I CONTACT YOU?
+# How can i contact you?
 
 If you have specific questions about our privacy policy you can simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question .
